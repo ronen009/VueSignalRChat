@@ -1,0 +1,4 @@
+C:\Projects\VueSignalRChat\server\obj\Debug\netcoreapp3.0\server.csprojAssemblyReference.cache
+C:\Projects\VueSignalRChat\server\obj\Debug\netcoreapp3.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\VueSignalRChat\server\obj\Debug\netcoreapp3.0\server.AssemblyInfoInputs.cache
+C:\Projects\VueSignalRChat\server\obj\Debug\netcoreapp3.0\server.AssemblyInfo.cs
