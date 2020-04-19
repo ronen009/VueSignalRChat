@@ -1,5 +1,5 @@
 # VueSignalRChat
-VueJs using typescript, vuex with typescript, SignalR, JWT, AES encryption. with .Net core.
+Using typescript, vuex with typescript, SignalR, JWT, AES encryption. with .Net core.
 DB: sqlServer using entity framework. 
 
 This is a self learning project, implementing chat.
