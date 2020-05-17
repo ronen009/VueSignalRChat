@@ -12,7 +12,6 @@ Things to do:
 Adding groups to SignalR. Right now all clients being notifed when message sent.
 Prevent passing user id to client. Id should be encrypted.
 Encrypt messages end to end.
-Improve UI.
 Add comments.
 
 Create db by using DB.sql
